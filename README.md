@@ -1,37 +1,34 @@
-<h1 align="center">
-	<a href="https://github.com/WolfSoftware">
-		<img src="https://raw.githubusercontent.com/WolfSoftware/branding/master/images/general/banners/64/black-and-white.png" alt="Wolf Software Logo" />
-	</a>
-	<br>
-	Time to First Byte
-</h1>
-
 <p align="center">
-	<a href="https://travis-ci.com/PlatformEngineersToolbox/time-to-first-byte">
-		<img src="https://img.shields.io/travis/com/PlatformEngineersToolbox/time-to-first-byte/master?style=for-the-badge&logo=travis" alt="Build Status">
-	</a>
-	<a href="https://github.com/PlatformEngineersToolbox/time-to-first-byte/releases/latest">
-		<img src="https://img.shields.io/github/v/release/PlatformEngineersToolbox/time-to-first-byte?color=blue&style=for-the-badge&logo=github&logoColor=white&label=Latest%20Release" alt="Release">
-	</a>
-	<a href="https://github.com/PlatformEngineersToolbox/time-to-first-byte/releases/latest">
-		<img src="https://img.shields.io/github/commits-since/PlatformEngineersToolbox/time-to-first-byte/latest.svg?color=blue&style=for-the-badge&logo=github&logoColor=white" alt="Commits since release">
-	</a>
-	<a href="LICENSE.md">
-		<img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Software License">
-	</a>
-	<br>
-	<a href=".github/CODE_OF_CONDUCT.md">
-		<img src="https://img.shields.io/badge/Code%20of%20Conduct-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-	</a>
-	<a href=".github/CONTRIBUTING.md">
-		<img src="https://img.shields.io/badge/Contributing-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-	</a>
-	<a href=".github/SECURITY.md">
-		<img src="https://img.shields.io/badge/Report%20Security%20Concern-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-	</a>
-	<a href=".github/SUPPORT.md">
-		<img src="https://img.shields.io/badge/Get%20Support-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-	</a>
+    <a href="https://github.com/PlatformEngineersToolbox/">
+        <img src="https://cdn.wolfsoftware.com/assets/images/github/organisations/platformengineerstoolbox/black-and-white-circle-256.png" alt="PlatformEngineersToolbox logo" />
+    </a>
+    <br />
+    <a href="https://github.com/PlatformEngineersToolbox/time-to-first-byte/actions/workflows/pipeline.yml">
+        <img src="https://img.shields.io/github/workflow/status/PlatformEngineersToolbox/time-to-first-byte/pipeline/master?style=for-the-badge" alt="Github Build Status">
+    </a>
+    <a href="https://github.com/PlatformEngineersToolbox/time-to-first-byte/releases/latest">
+        <img src="https://img.shields.io/github/v/release/PlatformEngineersToolbox/time-to-first-byte?color=blue&label=Latest%20Release&style=for-the-badge" alt="Release">
+    </a>
+    <a href="https://github.com/PlatformEngineersToolbox/time-to-first-byte/releases/latest">
+        <img src="https://img.shields.io/github/commits-since/PlatformEngineersToolbox/time-to-first-byte/latest.svg?color=blue&style=for-the-badge" alt="Commits since release">
+    </a>
+    <br />
+    <a href=".github/CODE_OF_CONDUCT.md">
+        <img src="https://img.shields.io/badge/Code%20of%20Conduct-blue?style=for-the-badge" />
+    </a>
+    <a href=".github/CONTRIBUTING.md">
+        <img src="https://img.shields.io/badge/Contributing-blue?style=for-the-badge" />
+    </a>
+    <a href=".github/SECURITY.md">
+        <img src="https://img.shields.io/badge/Report%20Security%20Concern-blue?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/PlatformEngineersToolbox/time-to-first-byte/issues">
+        <img src="https://img.shields.io/badge/Get%20Support-blue?style=for-the-badge" />
+    </a>
+    <br />
+    <a href="https://wolfsoftware.com/">
+        <img src="https://img.shields.io/badge/Created%20by%20Wolf%20Software-blue?style=for-the-badge" />
+    </a>
 </p>
 
 ## Overview
@@ -138,20 +135,4 @@ Short note for your information.
 
 * **0.1 second** – is about the limit for having the user feel that the system is reacting instantaneously, meaning that no special feedback is necessary except to display the result;
 * **1.0 second** – is about the limit for the user’s flow of thought to stay uninterrupted, even though the user will notice the delay. Normally, no special feedback is necessary during delays of more than 0.1 but less than 1.0 second, but the user does lose the feeling of operating directly on the data;
-* **10 seconds** – is about the limit for keeping the user’s attention focused on the dialogue. For longer delays, users will want to perform other tasks while waiting for the computer to finish, so they should be given feedback indicating when the computer expects to be done. Feedback during the delay is especially important if the response time is likely to be highly variable, since users will then not know what to expect.
-
-## Contributors
-
-<p>
-	<a href="https://github.com/TGWolf">
-		<img src="https://img.shields.io/badge/Wolf-black?style=for-the-badge" />
-	</a>
-</p>
-
-## Show Support
-
-<p>
-	<a href="https://ko-fi.com/wolfsoftware">
-		<img src="https://img.shields.io/badge/Ko%20Fi-blue?style=for-the-badge&logo=ko-fi&logoColor=white" />
-	</a>
-</p>
+* **10 seconds** – is about the limit for keeping the user’s attention focused on the dialogue. For longer delays, users will want to perform other tasks while waiting for the computer to finish, so they should be given feedback indicating when the computer expects to be done. Feedback during the delay is especially important if the response time is 
