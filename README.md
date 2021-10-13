@@ -112,9 +112,9 @@ It is also possible to specify how many connections to make when testing by addi
 ───────────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
 
-**NOTE**: We used http://slowwly.robertomurray.co.uk/ which is a website which allows you to intentionally add lag/latency to a connection. We forced the addition of 1000ms just to demonstrate the script functions as expected.
+**NOTE**: We used https://flash.siwalik.in/ which is a website which allows you to intentionally add lag/latency to a connection. We forced the addition of 1000ms just to demonstrate the script functions as expected.
 
-In the above example prefixed the normal url with http://slowwly.robertomurray.co.uk/delay/1000/url/ to create this intentional lag.
+In the above example prefixed the normal url with https://flash.siwalik.in/delay/1000/url/<url> to create this intentional lag.
 
 ## Timing Key
 
